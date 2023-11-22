@@ -1,0 +1,7 @@
+
+{
+    "src": "/home/user/tests/",
+    "browsers": ["chrome"],
+    "skipJsErrors": true,
+    "hostname": "anamendra"
+}
